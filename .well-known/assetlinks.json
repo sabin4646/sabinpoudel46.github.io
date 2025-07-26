@@ -1,9 +1,5 @@
 [{
   "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.example.another_demo",
-    "sha256_cert_fingerprints":
-    ["76:0E:66:A4:73:6C:BD:E7:E7:81:57:D3:74:FF:D0:EA:16:6E:A0:21:7C:39:E3:FF:1C:01:7E:85:32:64:BB:8E"]
-  }
+  "target" : { "namespace": "android_app", "package_name": "com.example.another_demo",
+               "sha256_cert_fingerprints": ["76:0E:66:A4:73:6C:BD:E7:E7:81:57:D3:74:FF:D0:EA:16:6E:A0:21:7C:39:E3:FF:1C:01:7E:85:32:64:BB:8E"] }
 }]
